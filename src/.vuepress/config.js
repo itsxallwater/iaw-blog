@@ -1,7 +1,7 @@
 const currentDateUTC = new Date().toUTCString();
 
 module.exports = {
-  title: "Mike's Wrong",
+  title: "Mike Writes",
   dest: "./public",
   pages: ["my-first-post"],
   themeConfig: {
