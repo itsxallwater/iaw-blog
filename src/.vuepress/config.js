@@ -5,7 +5,7 @@ module.exports = {
   dest: "./public",
   pages: ["my-first-post"],
   themeConfig: {
-    repo: "https://github.com/itsxallwater/itsxallwater.github.io",
+    repo: "https://github.com/itsxallwater/iaw-blog",
     repoLabel: "Repo",
     editLinks: true,
     editLinkText: "Found a bug? Help me improve this page!",
